@@ -26,4 +26,6 @@ NOTE: The data used in this crud app is in the product table inside the app-crud
 note: make sure both terminal is on, and dont forget to cd to your folder project before run the command
 
 Demo Video: https://drive.google.com/file/d/17vqVhI1qvLOgRoz7DY8JrPYwHUqrqVCy/view?usp=sharing
+
+In welcome page, please register first then login
  
