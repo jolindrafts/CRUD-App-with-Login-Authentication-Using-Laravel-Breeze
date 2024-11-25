@@ -17,12 +17,14 @@ NOTE: The data used in this crud app is in the product table inside the app-crud
 
 ### Set up server:
 1. Open XAMPP, start apache and mysql
-2. Download this project folder and open it inside vscode(or other)
-3. Open the terminal inside vs code
-4. cd to the app-crud folder, which consist all the code
-5. Run command: npm i
-6. Then run command: npm run dev
-7. Open another terminal, and run command: php artisan serve
+2. Download this project folder and place it in C:\xampp\htdocs
+3. Then open the project in vscode(or other)
+4. Open the terminal inside vs code
+5. cd to the app-crud folder, which consist all the code
+6. Run command: npm i
+7. Then run command: npm run dev
+8. Open another terminal, and run command: php artisan serve
+9. To access it, open browser, type: localhost/8000 
 note: make sure both terminal is on, and dont forget to cd to your folder project before run the command
 
 Demo Video: https://drive.google.com/file/d/17vqVhI1qvLOgRoz7DY8JrPYwHUqrqVCy/view?usp=sharing
