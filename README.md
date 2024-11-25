@@ -13,6 +13,7 @@
 3. Open in your browser: localhost/phpmyadmin
 4. Then create new database, name it: app-crud (this database name should match with DB_DATABASE inside .env file), and make sure inside the .env is: DB_CONNECTION=mysql
 5. Then import app-crud.sql to the new database in localhost/phpmyadmin
+NOTE: The data used in this crud app is in the product table inside the app-crud database.
 
 ### Set up server:
 1. Open XAMPP, start apache and mysql
